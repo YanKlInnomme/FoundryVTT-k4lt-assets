@@ -1,4 +1,4 @@
-
+![BMCJS Badge](https://wrnl.ink/bmcjs-bs1)
 **See below for the English version**
 
 # Module k4lt-assets pour Foundry VTT
