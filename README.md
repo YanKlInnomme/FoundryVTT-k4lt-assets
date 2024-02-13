@@ -2,7 +2,7 @@
 
   <a href="https://foundryvtt.com" target="_blank">
     <img alt="Foundry Version" src="https://img.shields.io/badge/dynamic/json?color=blue&label=Foundry&query=compatibility.minimum&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffvtt-fria-ligan%2Fblade-runner-foundry-vtt%2Fmain%2Fstatic%2Fsystem.json"/>
-   <img alt="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fblob%2Fmaster%2Fmodule.json&query=compatibility.minimum&label=Foundry%20VTT&labelColor=white"/>
+   <img alt="Foundry Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fblob%2Fmaster%2Fmodule.json&query=compatibility.minimum&label=Foundry%20VTT&labelColor=white"/>
   </a>
 
 **See below for the English version**
