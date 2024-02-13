@@ -1,8 +1,15 @@
-# Module k4lt-ost pour Foundry VTT
+**See below for the English version**
 
-Ce module permet de profiter de la bande sonore originale de KULT: Divinity Lost directement dans Foundry VTT pour animer vos sessions de jeu.
+# Module k4lt-assets pour Foundry VTT
 
-Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost autorisé par la politique de contenu d'Helmgast (https://helmgast.se/en/meta/fan-content-policy).
+Ce module est intrinsèquement lié à aux modules complémentaires (k4lt-fr, k4lkt-en et d'autres en devenir). Comme son nom le laisse supposer, il contient les ressources nécessaires à l'exécution d'autres modules. Voici une liste non exhaustive du contenu inclus dans ce module :
+ * Un ensemble d'icônes issu de https://game-icons.net/ pour illustrer les avantages, capacités, désavantages et limitations;
+ * Les illustrations destinées à illustrer les fiches des PJs prétirés;
+ * Les illustrations du jeu de tarot officiel Kult;
+ * Un ensemble d'éléments audio de sources variables afin d'animer la partie;
+ * Les illustrations issues des scénarios mise à disposition gratuitement : La Galerie des Âmes, Oakwood Heights...
+
+De plus le module permet aussi de profiter de la bande sonore originale de KULT: Divinity Lost directement dans Foundry VTT pour animer vos sessions de jeu.
 
 ![162925347-1c696e-00 _Cover___Liner_Notes_01](https://user-images.githubusercontent.com/100078854/221789833-249a6465-e8c9-4c4c-8440-0c3408796639.png)
 [Cover_Liner_Notes.pdf](https://github.com/YanKlInnomme/FoundryVTT-k4lt-ost/files/10847785/162925347-1c696e-00._Cover___Liner_Notes.pdf)
@@ -27,7 +34,15 @@ Les titres des morceaux reflètent également les thèmes et l'esthétique du je
 
 Voici le lien d'écoute de l'OST de KULT Divinity Lost sur la plateforme Bandcamp : https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir via Tipeee (https://fr.tipeee.com/yank/news) pour m'aider à continuer l'aventure. Dans tous les cas, je vous souhaite de vous amuser pleinement, et n'hésitez pas à me contacter pour me donner votre avis ou me signaler tout problème éventuel.
+Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost autorisé par la politique de contenu d'Helmgast (https://helmgast.se/en/meta/fan-content-policy).
+
+Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez si vous le souhaitez m'offrir un café (https://www.buymeacoffee.com/yank) pour me marquer votre soutien et m'aider à poursuivre le développement. Dans tous les cas, je vous souhaite de vous amuser pleinement, et n'hésitez pas à me contacter pour me donner votre avis ou me signaler tout problème éventuel.
+
+## Droits d'utilisation des ressources
+
+Veuillez noter que chaque ressource incluse dans ce module peut être soumise à des droits d'auteur différents. Certaines sont libres de droit (comme les icônes et les fichiers audio), tandis que d'autres sont soumises à des restrictions. Il est impératif de respecter les droits d'auteur et les licences associées à chaque ressource. Toute utilisation non autorisée, y compris la reproduction, la distribution ou la modification des ressources, est strictement interdite sans le consentement préalable des titulaires de droits.
+
+Merci de votre compréhension et de votre coopération pour garantir le respect des créateurs et des détenteurs de droits.
 
 ## Prérequis
 
@@ -35,6 +50,9 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le logiciel Foundry VTT pour jouer aux jeux de rôle sur table (TTRPG) en ligne (https://foundryvtt.com/)
  * Le système k4lt · KULT : Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
 
+## Version 2.0.0
+
+ * Restructuration globale afin de scinder le module 'k4lt-fr' et d'en faciliter la maintenance
 
 ## Version 1.0.1
 
@@ -46,14 +64,19 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
  ---------------------------------------------------------------------
 
- # k4lt-ost module for Foundry VTT
+# Module k4lt-assets for Foundry VTT
 
-This module allows you to enjoy the original soundtrack of KULT: Divinity Lost directly in Foundry VTT to animate your gaming sessions.
+This module is intrinsically linked to the add-on modules (k4lt-en, k4lkt-en and others in the pipeline). As its name suggests, it contains the resources needed to run other modules. Here's a non-exhaustive list of the contents included in this module:
+ * A set of icons from https://game-icons.net/ to illustrate advantages, capabilities, disadvantages and limitations;
+ * Illustrations to illustrate the pre-started character sheets;
+ * Illustrations from the official Kult tarot deck;
+ * A set of audio elements from various sources to animate the game;
+ * Illustrations from freely available scenarios: Gallery of Souls, Oakwood Heights...
 
-This digital adaptation is unofficial content of KULT: Divinity Lost, allowed by the content policy of Helmgast (https://helmgast.se/en/meta/fan-content-policy).
+What's more, the module also lets you enjoy the original KULT: Divinity Lost soundtrack directly in Foundry VTT to liven up your game sessions.
 
-The KULT Divinity Lost OST consists of 27 tracks created by different artists. Here is the list of artists who contributed to the soundtrack of this game:
-
+The KULT Divinity Lost OST is made up of 27 tracks created by several different artists. Here is the list of artists who contributed to the game's soundtrack:
+ 
     Atrium Carceri
     Howler
     Mechanoreceptor
@@ -66,23 +89,35 @@ The KULT Divinity Lost OST consists of 27 tracks created by different artists. H
     Tantrick Ape
     Zwaga
 
-Each artist brings their own style and atmosphere to the soundtrack, creating an immersive and unique sonic experience for players. The music oscillates between dark, oppressive, mysterious atmospheres and more intense moments with industrial and electronic tones.
+Each artist brings his or her own style and atmosphere to the soundtrack, creating an immersive and unique sonic experience for players. The music oscillates between dark, oppressive and mysterious atmospheres, and more intense moments with industrial and electronic tones.
 
-The track titles also reflect the themes and aesthetics of the game, with names such as 'The Void', 'The Archons', 'The Seers', 'The Black Madonna' and 'The Divinity Lost'. These titles are evocative and hint at key elements of the role-playing universe, such as cosmic powers, malevolent entities and enigmatic mystics.
+Track titles also reflect the themes and aesthetics of the game, with names such as "The Void", "The Archons", "The Seers", "The Black Madonna" and "The Divinity Lost". These evocative titles suggest key elements of the role-playing universe, such as cosmic powers, malevolent entities and enigmatic mystics.
 
-Here is the link to listen to the KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
+Here's the link to listen to the KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-If you like the module and have the means, you can support me via Tipeee (https://fr.tipeee.com/yank/news) to help me continue this adventure. In any case, have fun and don't hesitate to contact me to give me your opinion or to report any problems.
+This digital adaptation is unofficial content from KULT: Divinity Lost authorized by Helmgast's content policy (https://helmgast.se/en/meta/fan-content-policy).
 
-## Requirements
+If you like the module and have the means to do so, you can buy me a coffee (https://www.buymeacoffee.com/yank) to show your support and help me continue development. In any case, I hope you have a great time, and please don't hesitate to contact me if you have any comments or problems to report.
 
-In order to work this module requires the following prerequisites:
- * Foundry VTT online tabletop role-playing game (TTRPG) software (https://foundryvtt.com/)
- * The k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+## Resource usage rights
+
+Please note that each resource included in this module may be subject to different copyrights. Some are free (such as icons and audio files), while others are subject to restrictions. It is imperative to respect the copyrights and licenses associated with each resource. Any unauthorized use, including reproduction, distribution or modification of the resources, is strictly prohibited without the prior consent of the rights holders.
+
+Thank you for your understanding and cooperation in ensuring respect for creators and rights holders.
+
+## Prerequisites
+
+In order to function, this module requires the following prerequisites:
+ * Foundry VTT software for playing tabletop role-playing games (TTRPG) online (https://foundryvtt.com/)
+ * k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+
+## Version 2.0.0
+
+ * Global restructuring to split the 'k4lt' module for easier maintenance
 
 ## Version 1.0.1
 
- * Manifest update
+ * Manifest updated
 
 ## Version 1.0.0
 

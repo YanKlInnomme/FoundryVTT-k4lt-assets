@@ -2,7 +2,7 @@
   "id": "k4lt-assets",
   "title": "KULT: Divinity Lost · Assets",
   "description": "Assets for KULT: Divinity Lost system.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "11",
@@ -12,7 +12,7 @@
   "authors": [
     {
       "name": "YanK",
-      "url": "https://fr.tipeee.com/yank",
+      "url": "https://www.buymeacoffee.com/yank",
       "email": "yanklinnomme@gmail.com",
       "discord": "YanK#8683"
     }
