@@ -1,5 +1,4 @@
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total) ![GitHub License](https://img.shields.io/github/license/YanKlInnomme/FoundryVTT-k4lt-assets)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total) ![GitHub License](https://img.shields.io/github/license/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets)
 
 **See below for the English version**
 
@@ -15,6 +14,7 @@ Ce module est intrinsèquement lié à aux modules complémentaires (k4lt-fr, k4
 De plus le module permet aussi de profiter de la bande sonore originale de KULT: Divinity Lost directement dans Foundry VTT pour animer vos sessions de jeu.
 
 ![cover](https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/assets/100078854/dd993c1a-4b2b-40d3-8905-7983cd8cad5b)
+
 [Cover_Liner_Notes.pdf](https://github.com/YanKlInnomme/FoundryVTT-k4lt-ost/files/10847785/162925347-1c696e-00._Cover___Liner_Notes.pdf)
 
 L'OST de KULT Divinity Lost est composée de 27 pistes créées par plusieurs artistes différents. Voici la liste des artistes ayant contribué à la bande sonore de ce jeu:
