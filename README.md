@@ -1,4 +1,5 @@
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=V%C3%A9rifi%C3%A9%20sur%20Foundry%20VTT&labelColor=%23f3f8d8&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=Version%20du%20module&labelColor=%23f3f8d8&color=%230f2f2b)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=v%C3%A9rifi%C3%A9%20sur%20foundry%20vtt&labelColor=%23f3f8d8&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version%20du%20module&labelColor=%23f3f8d8&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total)
+
 
 
 
