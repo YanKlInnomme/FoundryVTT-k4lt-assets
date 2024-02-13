@@ -1,6 +1,6 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=Foundry%20VTT&color=%23ee9b3a)
 
-<img alt="GitHub" src="https://img.shields.io/github/license/YanKlInnomme/FoundryVTT-k4lt-assets"> <a href="https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/YanKlInnomme/FoundryVTT-k4lt-assets"></a> <a href="https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets"></a> <a href="https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets"></a>
+<img alt="GitHub" src="https://img.shields.io/github/License/YanKlInnomme/FoundryVTT-k4lt-assets"> <a href="https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/YanKlInnomme/FoundryVTT-k4lt-assets"></a> <a href="https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets"></a> <a href="https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets"></a>
 
 **See below for the English version**
 
