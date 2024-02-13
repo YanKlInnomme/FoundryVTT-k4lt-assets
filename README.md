@@ -43,9 +43,7 @@ Si vous appréciez le module et que vous avez les moyens de le faire, vous pouve
 
 ## Droits d'utilisation des ressources
 
-Veuillez noter que chaque ressource incluse dans ce module peut être soumise à des droits d'auteur différents. Certaines sont libres de droit (comme les icônes et les fichiers audio), tandis que d'autres sont soumises à des restrictions. Il est impératif de respecter les droits d'auteur et les licences associées à chaque ressource. Toute utilisation non autorisée, y compris la reproduction, la distribution ou la modification des ressources, est strictement interdite sans le consentement préalable des titulaires de droits.
-
-Merci de votre compréhension et de votre coopération pour garantir le respect des créateurs et des détenteurs de droits.
+Veuillez prendre note que chaque ressource intégrée dans ce module peut être assujettie à des droits d'auteur distincts. Certaines ressources sont libres de droits (telles que les icônes et les bruitages audio), tandis que d'autres sont sujettes à des restrictions. Il est impératif de se conformer aux droits d'auteur et aux licences afférentes à chaque ressource. Toute utilisation non autorisée, notamment la reproduction, la distribution ou la modification des ressources, est formellement interdite sans le consentement préalable des titulaires de droits.
 
 ## Prérequis
 
@@ -104,9 +102,7 @@ If you like the module and have the means to do so, you can buy me a coffee (htt
 
 ## Resource usage rights
 
-Please note that each resource included in this module may be subject to different copyrights. Some are free (such as icons and audio files), while others are subject to restrictions. It is imperative to respect the copyrights and licenses associated with each resource. Any unauthorized use, including reproduction, distribution or modification of the resources, is strictly prohibited without the prior consent of the rights holders.
-
-Thank you for your understanding and cooperation in ensuring respect for creators and rights holders.
+Please note that each resource included in this module may be subject to separate copyrights. Some resources are royalty-free (such as icons and audio sound effects), while others are subject to restrictions. It is imperative to comply with the copyrights and licenses pertaining to each resource. Any unauthorized use, including reproduction, distribution or modification, is strictly forbidden without the prior consent of the copyright holders.
 
 ## Prerequisites
 
