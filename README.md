@@ -1,5 +1,4 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=Foundry%20VTT&color=%23ee9b3a)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_YanK_)
 
 **See below for the English version**
 
