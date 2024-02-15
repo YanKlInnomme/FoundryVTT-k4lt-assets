@@ -5,7 +5,7 @@
 # Module k4lt-assets pour Foundry VTT
 
 Ce module est intrinsèquement lié à aux modules complémentaires (k4lt-fr, k4lkt-en et d'autres en devenir). Comme son nom le laisse supposer, il contient les ressources nécessaires à l'exécution d'autres modules. Voici une liste non exhaustive du contenu inclus dans ce module :
- * Un ensemble d'icônes issu de https://game-icons.net/ pour illustrer les avantages, capacités, désavantages et limitations;
+ * Un ensemble d'icônes issu de [Game-icons.net](https://game-icons.net/) pour illustrer les avantages, capacités, désavantages et limitations;
  * Les illustrations destinées à illustrer les fiches des PJs prétirés;
  * Les illustrations du jeu de tarot officiel Kult;
  * Un ensemble d'éléments audio de sources variables afin d'animer la partie;
@@ -37,19 +37,29 @@ Les titres des morceaux reflètent également les thèmes et l'esthétique du je
 
 Voici le lien d'écoute de l'OST de KULT Divinity Lost sur la plateforme Bandcamp : https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost autorisé par la politique de contenu d'Helmgast (https://helmgast.se/en/meta/fan-content-policy).
-
 Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre geste serait grandement apprécié et contribuerait à soutenir le développement continu. Quoi qu'il en soit, je vous souhaite une expérience enrichissante et divertissante. N'hésitez pas à me contacter pour partager vos commentaires ou signaler tout problème éventuel.
-
-## Droits d'utilisation des ressources
-
-Veuillez prendre note que chaque ressource intégrée dans ce module peut être assujettie à des droits d'auteur distincts. Certaines ressources sont libres de droits (telles que les icônes et les bruitages audio), tandis que d'autres sont sujettes à des restrictions. Il est impératif de se conformer aux droits d'auteur et aux licences afférentes à chaque ressource. Toute utilisation non autorisée, notamment la reproduction, la distribution ou la modification des ressources, est formellement interdite sans le consentement préalable des titulaires de droits.
 
 ## Prérequis
 
 Afin de fonctionner ce module nécessite les installations préalables suivantes :
  * Le logiciel Foundry VTT pour jouer aux jeux de rôle sur table (TTRPG) en ligne (https://foundryvtt.com/)
  * Le système k4lt · KULT : Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+
+## Licences
+
+Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, autorisé par la [politique de contenu d'Helmgast](https://helmgast.se/en/meta/fan-content-policy). En outre, ce projet inclut :
+
+- **Contenu et logo** : [Kult Divinity Lost] (https://kultdivinitylost.com/) est © 2021 Cabinet Licensing LLC. Tous droits réservés. Les parties de ce projet protégées par ce copyright ne peuvent être distribuées commercialement ou librement. Cela inclut les illustrations, le logo et le texte couverts par le droit d'auteur.
+
+- **Bande sonore originale** : [Kult Divinity Lost OST](https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack) est © 2018 Helmgast AB. Tous droits réservés. Les pistes audio sont protégées par le droit d'auteur et ne peuvent être distribuées commercialement ou librement.
+
+- **Code source** : Tout le code source _(javascript, css, etc.)_ est sous licence [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+- **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de modules](https://foundryvtt.com/article/license/).
+
+- **Icônes** : Les icônes du dossier `img/icons/` sont une gracieuseté de [Game-icons.net](https://game-icons.net/) et sont sous licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+- **Polices de caractères** : Les polices utilisées dans ce projet ont leurs propres licences.
 
 ## Version 2.0.0
 
