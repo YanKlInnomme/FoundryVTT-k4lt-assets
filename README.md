@@ -39,7 +39,7 @@ Voici le lien d'écoute de l'OST de KULT Divinity Lost sur la plateforme Bandcam
 
 Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost autorisé par la politique de contenu d'Helmgast (https://helmgast.se/en/meta/fan-content-policy).
 
-Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez si vous le souhaitez m'offrir un café (https://www.buymeacoffee.com/yank) pour me marquer votre soutien et m'aider à poursuivre le développement. Dans tous les cas, je vous souhaite de vous amuser pleinement, et n'hésitez pas à me contacter pour me donner votre avis ou me signaler tout problème éventuel.
+Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre geste serait grandement apprécié et contribuerait à soutenir le développement continu. Quoi qu'il en soit, je vous souhaite une expérience enrichissante et divertissante. N'hésitez pas à me contacter pour partager vos commentaires ou signaler tout problème éventuel.
 
 ## Droits d'utilisation des ressources
 
