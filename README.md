@@ -59,18 +59,13 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Icônes** : Les icônes du dossier `img/icons/` sont une gracieuseté de [Game-icons.net](https://game-icons.net/) et sont sous licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
-- **Polices de caractères** : Les polices utilisées dans ce projet ont leurs propres licences.
-
 ## Version 2.0.0
-
  * Restructuration globale afin de scinder le module 'k4lt-fr' et d'en faciliter la maintenance
 
 ## Version 1.0.1
-
  * Mise à jour du manifeste
 
 ## Version 1.0.0
-
  * Ajout des pistes MP3 (qualité : 128Kbits/s)
 
  ---------------------------------------------------------------------
@@ -106,13 +101,22 @@ Track titles also reflect the themes and aesthetics of the game, with names such
 
 Here's the link to listen to the KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-This digital adaptation is unofficial content from KULT: Divinity Lost authorized by Helmgast's content policy (https://helmgast.se/en/meta/fan-content-policy).
-
 If you like the module and have the means to do so, you can buy me a coffee (https://www.buymeacoffee.com/yank) to show your support and help me continue development. In any case, I hope you have a great time, and please don't hesitate to contact me if you have any comments or problems to report.
 
-## Resource usage rights
+## Licenses
 
-Please note that each resource included in this module may be subject to separate copyrights. Some resources are royalty-free (such as icons and audio sound effects), while others are subject to restrictions. It is imperative to comply with the copyrights and licenses pertaining to each resource. Any unauthorized use, including reproduction, distribution or modification, is strictly forbidden without the prior consent of the copyright holders.
+This digital adaptation is unofficial content from KULT: Divinity Lost, licensed under the [Helmgast Content Policy](https://helmgast.se/en/meta/fan-content-policy). In addition, this project includes:
+
+- **Content and logo**: [Kult Divinity Lost] (https://kultdivinitylost.com/) is © 2021 Cabinet Licensing LLC. All rights reserved. Portions of this project protected by this copyright may not be distributed commercially or freely. This includes illustrations, logo and text covered by copyright.
+
+- **Original Soundtrack**: [Kult Divinity Lost OST](https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack) is © 2018 Helmgast AB. All rights reserved. Audio tracks are copyrighted and may not be distributed commercially or freely.
+
+- **Source Code**: All source code _(javascript, css, etc.)_ is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+- **Foundry VTT**: The project is created in accordance with the [Foundry VTT Limited License Agreement for Module Development](https://foundryvtt.com/article/license/).
+
+- **Icons** : The icons in the `img/icons/` folder are courtesy of [Game-icons.net](https://game-icons.net/) and are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
 
 ## Prerequisites
 
@@ -121,13 +125,10 @@ In order to function, this module requires the following prerequisites:
  * k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
 
 ## Version 2.0.0
-
  * Global restructuring to split the 'k4lt' module for easier maintenance
 
 ## Version 1.0.1
-
  * Manifest updated
 
 ## Version 1.0.0
-
  * MP3 tracks added (quality: 128Kbits/s)
