@@ -11,7 +11,7 @@ Ce module est intrinsèquement lié à aux modules complémentaires (k4lt-fr, k4
  * Un ensemble d'éléments audio de sources variables afin d'animer la partie;
  * Les illustrations issues des scénarios mise à disposition gratuitement : La Galerie des Âmes, Oakwood Heights...
 
-De plus le module permet aussi de profiter de la bande sonore originale de KULT: Divinity Lost directement dans Foundry VTT pour animer vos sessions de jeu.
+De plus le module permet aussi de profiter de la bande sonore originale de KULT: Divinity Lost directement dans Foundry VTT pour animer vos sessions de jeu. À noter que les pistes audio sont limitées à 30 secondes conformément à la politique de contenu d'Helmgast.
 
 ![cover](https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets/assets/100078854/dd993c1a-4b2b-40d3-8905-7983cd8cad5b)
 
@@ -35,7 +35,7 @@ Chaque artiste apporte son propre style et sa propre atmosphère à la bande son
 
 Les titres des morceaux reflètent également les thèmes et l'esthétique du jeu, avec des noms tels que "The Void", "The Archons", "The Seers", "The Black Madonna" et "The Divinity Lost". Ces titres sont évocateurs et suggèrent des éléments clés de l'univers du jeu de rôles, tels que les puissances cosmiques, les entités malveillantes et les mystiques énigmatiques.
 
-Voici le lien d'écoute de l'OST de KULT Divinity Lost sur la plateforme Bandcamp : https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
+Voici le lien d'écoute de l'OST complète de KULT Divinity Lost sur la plateforme Bandcamp : https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
 Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre geste serait grandement apprécié et contribuerait à soutenir le développement continu. Quoi qu'il en soit, je vous souhaite une expérience enrichissante et divertissante. N'hésitez pas à me contacter pour partager vos commentaires ou signaler tout problème éventuel.
 
@@ -79,7 +79,7 @@ This module is intrinsically linked to the add-on modules (k4lt-en, k4lkt-en and
  * A set of audio elements from various sources to animate the game;
  * Illustrations from freely available scenarios: Gallery of Souls, Oakwood Heights...
 
-What's more, the module also lets you enjoy the original KULT: Divinity Lost soundtrack directly in Foundry VTT to liven up your game sessions.
+What's more, the module also lets you enjoy the original KULT: Divinity Lost soundtrack directly in Foundry VTT to liven up your game sessions. Please note that audio tracks are limited to 30 seconds in accordance with Helmgast's content policy.
 
 The KULT Divinity Lost OST is made up of 27 tracks created by several different artists. Here is the list of artists who contributed to the game's soundtrack:
  
@@ -99,7 +99,7 @@ Each artist brings his or her own style and atmosphere to the soundtrack, creati
 
 Track titles also reflect the themes and aesthetics of the game, with names such as "The Void", "The Archons", "The Seers", "The Black Madonna" and "The Divinity Lost". These evocative titles suggest key elements of the role-playing universe, such as cosmic powers, malevolent entities and enigmatic mystics.
 
-Here's the link to listen to the KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
+Here's the link to listen to the full KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
 If you like the module and have the means to do so, you can buy me a coffee (https://www.buymeacoffee.com/yank) to show your support and help me continue development. In any case, I hope you have a great time, and please don't hesitate to contact me if you have any comments or problems to report.
 
