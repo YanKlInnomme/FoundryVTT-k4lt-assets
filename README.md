@@ -1,11 +1,10 @@
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets) <a href="https://www.buymeacoffee.com/yank">![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black)</a>
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets) [![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black)](https://www.buymeacoffee.com/yank)
 
 **See below for the English version**
 
 # Module k4lt-assets pour Foundry VTT
 
 Ce module est intrinsèquement lié à aux modules complémentaires (k4lt-fr, k4lkt-en et d'autres en devenir). Comme son nom le laisse supposer, il contient les ressources nécessaires à l'exécution d'autres modules. Voici une liste non exhaustive du contenu inclus dans ce module :
- * Un ensemble d'icônes issu de [Game-icons.net](https://game-icons.net/) pour illustrer les avantages, capacités, désavantages et limitations;
  * Les illustrations destinées à illustrer les fiches des PJs prétirés;
  * Les illustrations du jeu de tarot officiel Kult;
  * Un ensemble d'éléments audio de sources variables afin d'animer la partie;
@@ -49,15 +48,13 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
 Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, autorisé par la [politique de contenu d'Helmgast](https://helmgast.se/en/meta/fan-content-policy). En outre, ce projet inclut :
 
-- **Contenu et logo** : [Kult Divinity Lost] (https://kultdivinitylost.com/) est © 2021 Cabinet Licensing LLC. Tous droits réservés. Les parties de ce projet protégées par ce copyright ne peuvent être distribuées commercialement ou librement. Cela inclut les illustrations, le logo et le texte couverts par le droit d'auteur.
+- **Contenu et logo** : KULT et les logos, personnages, noms et ressemblances qui y sont associés sont des marques commerciales ou des marques déposées de Cabinet Licensing LLC. [Kult Divinity Lost] (https://kultdivinitylost.com/) est développé et publié par Helmgast AB. Utilisées avec autorisation. Tous droits réservés. Les parties de ce projet protégées par ce copyright ne peuvent être distribuées commercialement ou librement. Cela inclut les illustrations, le logo et le texte couverts par le droit d'auteur.
 
 - **Bande sonore originale** : [Kult Divinity Lost OST](https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack) est © 2018 Helmgast AB. Tous droits réservés. Les pistes audio sont protégées par le droit d'auteur et ne peuvent être distribuées commercialement ou librement.
 
 - **Code source** : Tout le code source _(javascript, css, etc.)_ est sous licence [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de modules](https://foundryvtt.com/article/license/).
-
-- **Icônes** : Les icônes du dossier `img/icons/` sont une gracieuseté de [Game-icons.net](https://game-icons.net/) et sont sous licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 ## Version 2.0.0
  * Restructuration globale afin de scinder le module 'k4lt-fr' et d'en faciliter la maintenance
@@ -73,7 +70,6 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 # Module k4lt-assets for Foundry VTT
 
 This module is intrinsically linked to the add-on modules (k4lt-en, k4lkt-en and others in the pipeline). As its name suggests, it contains the resources needed to run other modules. Here's a non-exhaustive list of the contents included in this module:
- * A set of icons from https://game-icons.net/ to illustrate advantages, capabilities, disadvantages and limitations;
  * Illustrations to illustrate the pre-started character sheets;
  * Illustrations from the official Kult tarot deck;
  * A set of audio elements from various sources to animate the game;
@@ -107,16 +103,13 @@ If you like the module and have the means to do so, you can buy me a coffee (htt
 
 This digital adaptation is unofficial content from KULT: Divinity Lost, licensed under the [Helmgast Content Policy](https://helmgast.se/en/meta/fan-content-policy). In addition, this project includes:
 
-- **Content and logo**: [Kult Divinity Lost] (https://kultdivinitylost.com/) is © 2021 Cabinet Licensing LLC. All rights reserved. Portions of this project protected by this copyright may not be distributed commercially or freely. This includes illustrations, logo and text covered by copyright.
+- **Content and logo**: KULT and associated logos, characters, names and likenesses are trademarks or registered trademarks of Cabinet Licensing LLC. [Kult Divinity Lost] (https://kultdivinitylost.com/) is developed and published by Helmgast AB. Used with permission. All rights reserved. Portions of this project protected by this copyright may not be distributed commercially or freely. This includes illustrations, logo and text covered by copyright.
 
 - **Original Soundtrack**: [Kult Divinity Lost OST](https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack) is © 2018 Helmgast AB. All rights reserved. Audio tracks are copyrighted and may not be distributed commercially or freely.
 
 - **Source Code**: All source code _(javascript, css, etc.)_ is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created in accordance with the [Foundry VTT Limited License Agreement for Module Development](https://foundryvtt.com/article/license/).
-
-- **Icons** : The icons in the `img/icons/` folder are courtesy of [Game-icons.net](https://game-icons.net/) and are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
-
 
 ## Prerequisites
 
