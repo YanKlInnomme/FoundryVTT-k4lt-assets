@@ -69,7 +69,7 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 # Module k4lt-assets for Foundry VTT
 
-This module is intrinsically linked to the add-on modules (k4lt-en, k4lkt-en and others in the pipeline). As its name suggests, it contains the resources needed to run other modules. Here's a non-exhaustive list of the contents included in this module:
+This module is intrinsically linked to the add-on modules (k4lt-fr, k4lkt-en and others in the pipeline). As its name suggests, it contains the resources needed to run other modules. Here's a non-exhaustive list of the contents included in this module:
  * Illustrations to illustrate the pre-started character sheets;
  * Illustrations from the official Kult tarot deck;
  * A set of audio elements from various sources to animate the game;
