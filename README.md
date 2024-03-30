@@ -36,7 +36,7 @@ Les titres des morceaux reflètent également les thèmes et l'esthétique du je
 
 Voici le lien d'écoute de l'OST complète de KULT Divinity Lost sur la plateforme Bandcamp : https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre geste serait grandement apprécié et contribuerait à soutenir le développement continu. Quoi qu'il en soit, je vous souhaite une expérience enrichissante et divertissante. N'hésitez pas à me contacter pour partager vos commentaires ou signaler tout problème éventuel.
+Si vous appréciez le module et que vous avez les moyens de le faire, vous pouvez me soutenir en m'offrant un café sur Buy Me a Coffee (https://www.buymeacoffee.com/yank). Votre soutien serait grandement apprécié et contribuerait à la poursuite du développement. Quoi qu'il en soit, j'espère que vous vivrez une expérience enrichissante et agréable. N'hésitez pas à me contacter si vous avez des commentaires ou des questions.
 
 ## Prérequis
 
@@ -54,7 +54,7 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Code source** : Tout le code source _(javascript, css, etc.)_ est sous licence [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-- **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de modules](https://foundryvtt.com/article/license/).
+- **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
 ## Version 2.0.0
  * Restructuration globale afin de scinder le module 'k4lt-fr' et d'en faciliter la maintenance
@@ -97,7 +97,7 @@ Track titles also reflect the themes and aesthetics of the game, with names such
 
 Here's the link to listen to the full KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-If you like the module and have the means to do so, you can buy me a coffee (https://www.buymeacoffee.com/yank) to show your support and help me continue development. In any case, I hope you have a great time, and please don't hesitate to contact me if you have any comments or problems to report.
+If you like the module and have the means to do so, you can support me by offering me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support would be greatly appreciated and will aid ongoing development. In any case, I hope you have a rewarding and enjoyable experience. Please feel free to contact me with any comments or issues.
 
 ## Licenses
 
