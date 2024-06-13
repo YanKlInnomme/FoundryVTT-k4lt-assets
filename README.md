@@ -56,6 +56,9 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.1.0
+ * Passage à la version 12 de Foundry VTT
+
 ## Version 2.0.0
  * Restructuration globale afin de scinder le module 'k4lt-fr' et d'en faciliter la maintenance
 
@@ -116,6 +119,9 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 In order to function, this module requires the following prerequisites:
  * Foundry VTT software for playing tabletop role-playing games (TTRPG) online (https://foundryvtt.com/)
  * k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+
+## Version 2.1.0
+ * Upgrade to Foundry VTT version 12
 
 ## Version 2.0.0
  * Global restructuring to split the 'k4lt' module for easier maintenance
