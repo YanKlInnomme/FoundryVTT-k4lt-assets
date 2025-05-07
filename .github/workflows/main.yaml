@@ -28,7 +28,7 @@ jobs:
         download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip
 
     # Create a zip file with all files required by the module to add to the release
-    - run: zip -r ./module.zip module.json README.md LICENSE img/ mp3/ ost/ packs/ pdf/ scenarios/
+    - run: zip -r ./module.zip k4lt-assets.js LICENSE module.json README.md img/ lang/ mp3/ ost/ packs/ pdf/ scenarios/
 
     # Create a release for this specific version
     - name: Update Release with Files
