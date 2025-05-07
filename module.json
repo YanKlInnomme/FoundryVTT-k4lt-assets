@@ -2,12 +2,12 @@
   "id": "k4lt-assets",
   "title": "KULT: Divinity Lost · Assets",
   "description": "Assets for KULT: Divinity Lost system.",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "license": "LICENSE",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.327",
-    "maximum": "13"
+    "minimum": "13",
+    "verified": "13.342",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -22,7 +22,8 @@
       {"id": "k4lt"}
     ]
   },
-    "packs": [
+  "esmodules": ["k4lt-assets.js"],
+  "packs": [
     {
       "label": "KULT: Divinity Lost · OST",
       "name": "k4lt-ost",
@@ -30,7 +31,19 @@
       "system": "k4lt",
       "path": "packs/k4lt-ost"
     }
-    ],
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
     "url": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets",
     "manifest": "",
     "download": ""

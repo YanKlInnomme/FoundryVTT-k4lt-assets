@@ -1,0 +1,7 @@
+{
+  "k4ltSoundTracker.Unknown": "Unknown sound",
+  "k4ltSoundTracker.Playing": "🎵 Playing: {name}\n📂 Path: {path}",
+  "k4ltSoundTracker.RestrictedNotice": "⚠️ This track is subject to a 30-second playback restriction. For more information : https://helmgast.se/en/meta/fan-content-policy/",
+  "k4ltSoundTracker.RestrictedChat": "🔒 <strong>{name}</strong> is a track protected by Helmgast's content policy. Playback is limited to 30 seconds.",
+  "k4ltSoundTracker.RestrictedEnd": "🟥 Playback of <strong>{name}</strong> has been automatically stopped."
+}

@@ -1,0 +1,7 @@
+{
+  "k4ltSoundTracker.Unknown": "Son inconnu",
+  "k4ltSoundTracker.Playing": "🎵 Lecture : {name}\n📂 Chemin : {path}",
+  "k4ltSoundTracker.RestrictedNotice": "⚠️ Cette piste est soumise à une lecture limitée à 30 secondes. Pour plus d'informations: https://helmgast.se/en/meta/fan-content-policy/",
+  "k4ltSoundTracker.RestrictedChat": "🔒 <strong>{name}</strong> est une piste protégée par les conditions de la politique de contenu d'Helmgast. La lecture est limitée à 30 secondes.",
+  "k4ltSoundTracker.RestrictedEnd": "🟥 La lecture de <strong>{name}</strong> a été automatiquement interrompue."
+}

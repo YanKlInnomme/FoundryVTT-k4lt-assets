@@ -56,6 +56,9 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Version 2.2.0
+ * Mise à jour du compendium de l'OST (correction des chemins d'accès aux fichiers audio et ajout du Sound Tracker afin de mettre en lumière plus clairement la politique de contenu d'Helmgast et les 30 secondes de lecture des pistes audio)
+
 ## Version 2.1.0
  * Passage à la version 12 de Foundry VTT
 
@@ -119,6 +122,9 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 In order to function, this module requires the following prerequisites:
  * Foundry VTT software for playing tabletop role-playing games (TTRPG) online (https://foundryvtt.com/)
  * k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+
+## Version 2.2.0
+ * Update of the OST compendium (correction of audio file paths and addition of the Sound Tracker to highlight Helmgast's content policy and the 30-second playback of audio tracks)
 
 ## Version 2.1.0
  * Upgrade to Foundry VTT version 12
