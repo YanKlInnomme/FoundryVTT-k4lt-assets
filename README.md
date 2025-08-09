@@ -56,6 +56,15 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 - **Foundry VTT** : Le projet est créé conformément à l'[accord de licence limitée de Foundry VTT concernant le développement de paquets](https://foundryvtt.com/article/license/).
 
+## Contenu généré par IA
+
+Veuillez noter que le contenu généré par IA est :
+ * Non officiel et ne fait pas partie du contenu original de Kult et de ses extensions,
+ * Non approuvé, soutenu ou révisé par Helmgast ou les détenteurs des droits de Kult,
+ * Fourni gratuitement via ce module.
+
+Ce contenu a été créé par moi dans le but d'enrichir l'expérience sur table virtuelle, tout en le distinguant clairement du matériel canonique. Il suit une direction artistique et un ton narratif distincts pour éviter toute confusion avec les ressources officielles de Kult.
+
 ## Version 2.3.0
  * Ajout de contenus additionnels, générés par IA, pour la campagne "La Madone Noire" :
     - Illustrations pour l'ensemble des personnages non-joueurs (PNJ) : 62 portraits
@@ -124,6 +133,15 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 - **Source Code**: All source code _(javascript, css, etc.)_ is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 - **Foundry VTT**: The project is created in accordance with the [Foundry VTT Limited License Agreement for Module Development](https://foundryvtt.com/article/license/).
+
+## AI-Generated Content
+
+Please note that AI-generated content is:
+ * Unofficial and not part of the original Kult content or its expansions,
+ * Not approved, endorsed or reviewed by Helmgast or the rights holders of Kult,
+ * Provided free of charge via this module.
+
+This content was created by me to enrich the virtual tabletop experience, while clearly distinguishing it from canonical material. It follows a distinct artistic direction and narrative tone to avoid any confusion with official Kult resources.
 
 ## Prerequisites
 
