@@ -20,6 +20,15 @@
       "hideAssetsDialogName": "Do Not Show Dialog Again",
       "hideAssetsDialogHint": "If enabled, the dialog will no longer be displayed for this user.",
       "AIGeneratedNotice": "<div style='border: 1px solid #888; padding: 1em; background-color: #1e1e1e; color: #e0e0e0; border-radius: 6px; font-size: 0.9em; line-height: 1.5;'><p>This AI-generated material is:</p><ul style='margin-top: 0.5em; margin-bottom: 0.5em;'><li><strong>Unofficial</strong>, and not part of the original <em>Kult: The Black Madonna</em> content,</li><li><strong>Not approved, endorsed, or reviewed</strong> by Helmgast or the rights holders of <em>Kult</em>,</li><li><strong>Provided freely and separately</strong> via the \"k4lt-assets\" module,</li><li><strong>Disabled by default</strong>, and only activated with the Game Master's explicit consent.</li></ul><p>This content was created by me with the goal of enriching the virtual tabletop experience, while clearly distinguishing it from canonical material. It follows a <strong>distinct artistic direction and narrative tone</strong> to avoid any confusion with official <em>Kult</em> assets.</p></div>"
+    },
+    "Module": {
+      "Title": "k4lt-assets Module"
+    },
+    "Links": {
+      "GitTitle": "Module deposit",
+      "GitURL": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets",
+      "DonationTitle": "Buy me a coffee",
+      "DonationURL": "https://www.buymeacoffee.com/yank"
     }
   }
 }

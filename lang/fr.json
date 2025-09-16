@@ -20,6 +20,15 @@
       "hideAssetsDialogName": "Ne plus afficher la boîte de dialogue",
       "hideAssetsDialogHint": "Si activé, la boîte de dialogue ne sera plus affichée pour cet utilisateur.",
       "AIGeneratedNotice": "<div style='border: 1px solid #888; padding: 1em; background-color: #1e1e1e; color: #e0e0e0; border-radius: 6px; font-size: 0.9em; line-height: 1.5;'><p>Ce matériel généré par IA est :</p><ul style='margin-top: 0.5em; margin-bottom: 0.5em;'><li><strong>Non officiel</strong>, et ne fait pas partie du contenu original de <em>Kult : The Black Madonna</em>,</li><li><strong>Non approuvé, soutenu ou révisé</strong> par Helmgast ou les détenteurs des droits de <em>Kult</em>,</li><li><strong>Fourni gratuitement et séparément</strong> via le module \"k4lt-assets\",</li><li><strong>Désactivé par défaut</strong>, et uniquement activé avec le consentement explicite du Maître de Jeu.</li></ul><p>Ce contenu a été créé par moi dans le but d'enrichir l'expérience sur table virtuelle, tout en le distinguant clairement du matériel canonique. Il suit une <strong>direction artistique et un ton narratif distincts</strong> pour éviter toute confusion avec les ressources officielles de <em>Kult</em>.</p></div>"
+    },
+    "Module": {
+      "Title": "Module k4lt-assets"
+    },
+    "Links": {
+      "GitTitle": "Dépôt du module",
+      "GitURL": "https://github.com/YanKlInnomme/FoundryVTT-k4lt-assets",
+      "DonationTitle": "Offre-moi un café",
+      "DonationURL": "https://www.buymeacoffee.com/yank"
     }
   }
 }

@@ -2,11 +2,11 @@
   "id": "k4lt-assets",
   "title": "KULT: Divinity Lost · Assets",
   "description": "Assets for KULT: Divinity Lost system.",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.347",
+    "verified": "13.348",
     "maximum": "14"
   },
   "authors": [
