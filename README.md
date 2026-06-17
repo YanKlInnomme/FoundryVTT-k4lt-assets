@@ -1,6 +1,6 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets) [![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black)](https://www.buymeacoffee.com/yank)
 
-**See below for the English version**
+[**See below for the English version**](#Module-k4lt-assets-for-Foundry-VTT)
 
 # Module k4lt-assets pour Foundry VTT
 
@@ -58,15 +58,23 @@ Cette adaptation numérique est un contenu non officiel de KULT: Divinity Lost, 
 
 ## Contenu généré par IA
 
-Veuillez noter que le contenu généré par IA est :
- * Non officiel et ne fait pas partie du contenu original de Kult et de ses extensions,
- * Non approuvé, soutenu ou révisé par Helmgast ou les détenteurs des droits de Kult,
- * Fourni gratuitement via ce module.
+Les versions précédentes de ce module incluaient certains contenus additionnels générés à l'aide d'outils d'intelligence artificielle. Ces ressources étaient proposées gratuitement dans le but d'enrichir l'expérience de jeu sur table virtuelle et étaient clairement identifiées comme du contenu non officiel, distinct du matériel canonique de KULT: Divinity Lost.
 
-Ce contenu a été créé par moi dans le but d'enrichir l'expérience sur table virtuelle, tout en le distinguant clairement du matériel canonique. Il suit une direction artistique et un ton narratif distincts pour éviter toute confusion avec les ressources officielles de Kult.
+Suite à l'évolution de la politique relative à l'intelligence artificielle de Foundry Virtual Tabletop publiée en mars 2026, les contenus préparés générés par IA ne sont désormais plus autorisés dans les modules distribués via les plateformes officielles de Foundry VTT.
+
+Afin de respecter cette nouvelle politique et de maintenir la disponibilité du module sur les canaux officiels de distribution, l'ensemble des contenus concernés a été retiré des versions récentes du module.
+
+Les anciennes ressources générées par IA ne faisaient pas partie du contenu officiel de KULT: Divinity Lost, n'étaient ni approuvées ni soutenues par Helmgast ou les détenteurs des droits de la licence, et ne sont plus distribuées dans le cadre de ce projet.
+
+Je remercie les utilisateurs qui ont apprécié ces contenus au fil des années et reste pleinement engagé dans le développement et la maintenance du module dans le respect des règles établies par Foundry VTT et des ayants droit de KULT: Divinity Lost.
+
+## Version 3.0.0
+ * Mise en conformité avec la politique IA de Foundry VTT
+ * Retrait de l'ensemble des contenus générés par IA, avec notamment un important travail de nettoyage sur les ressources nécessaires aux scénarios prêts-à-jouer « Gallery of Souls » et « Oakwood Heights »
+ * Ajout des derniers Kult Drops, y compris le numéro 33 contenant une interview de votre serviteur ;-)
 
 ## Version 2.3.1
- * Ajout des liens Dépot et Soutien dans l'onglet 'Paramètres'
+ * Ajout des liens Dépôt et Soutien dans l'onglet 'Paramètres'
 
 ## Version 2.3.0
  * Ajout de contenus additionnels, générés par IA, pour la campagne "La Madone Noire" :
@@ -125,6 +133,12 @@ Here's the link to listen to the full KULT Divinity Lost OST on the Bandcamp pla
 
 If you like the module and have the means to do so, you can support me by offering me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support would be greatly appreciated and will aid ongoing development. In any case, I hope you have a rewarding and enjoyable experience. Please feel free to contact me with any comments or issues.
 
+## Prerequisites
+
+In order to function, this module requires the following prerequisites:
+ * Foundry VTT software for playing tabletop role-playing games (TTRPG) online (https://foundryvtt.com/)
+ * k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+
 ## Licenses
 
 This digital adaptation is unofficial content from KULT: Divinity Lost, licensed under the [Helmgast Content Policy](https://helmgast.se/en/meta/fan-content-policy). In addition, this project includes:
@@ -139,18 +153,20 @@ This digital adaptation is unofficial content from KULT: Divinity Lost, licensed
 
 ## AI-Generated Content
 
-Please note that AI-generated content is:
- * Unofficial and not part of the original Kult content or its expansions,
- * Not approved, endorsed or reviewed by Helmgast or the rights holders of Kult,
- * Provided free of charge via this module.
+Previous versions of this module included additional content created using artificial intelligence tools. These resources were provided free of charge with the aim of enhancing the virtual tabletop experience and were clearly identified as unofficial content, distinct from the canonical material of KULT: Divinity Lost.
 
-This content was created by me to enrich the virtual tabletop experience, while clearly distinguishing it from canonical material. It follows a distinct artistic direction and narrative tone to avoid any confusion with official Kult resources.
+Following changes to Foundry Virtual Tabletop's AI Content Policy published in March 2026, AI-generated prepared content is no longer permitted in modules distributed through Foundry VTT's official platforms.
 
-## Prerequisites
+In order to comply with this updated policy and maintain the module's availability through official distribution channels, all affected content has been removed from recent versions of the module.
 
-In order to function, this module requires the following prerequisites:
- * Foundry VTT software for playing tabletop role-playing games (TTRPG) online (https://foundryvtt.com/)
- * k4lt system - KULT: Divinity Lost (4th Edition) (https://github.com/YanKlInnomme/FoundryVTT-k4lt)
+These AI-generated resources were never part of the official KULT: Divinity Lost content, were neither approved nor endorsed by Helmgast or the rights holders of the license, and are no longer distributed as part of this project.
+
+I would like to thank all users who enjoyed this content over the years and remain fully committed to the continued development and maintenance of this module in accordance with Foundry VTT policies and the rights of the KULT: Divinity Lost license holders.
+
+## Version 3.0.0
+ * Compliance update for Foundry VTT's AI Content Policy
+ * Removal of all AI-generated content, including extensive cleanup work on the resources required for the "Gallery of Souls" and "Oakwood Heights" ready-to-play scenarios
+ * Added the latest Kult Drops, including issue #33 featuring an interview with yours truly ;-)
 
 ## Version 2.3.1
  * Added Depot and Support links in the 'Settings' tab

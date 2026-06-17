@@ -2,18 +2,18 @@
   "id": "k4lt-assets",
   "title": "KULT: Divinity Lost · Assets",
   "description": "Assets for KULT: Divinity Lost system.",
-  "version": "2.3.1",
+  "version": "3.0.0",
   "license": "LICENSE",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13.348",
-    "maximum": "14"
+    "minimum": "14",
+    "verified": "14.364",
+    "maximum": "15"
   },
   "authors": [
     {
-      "name": "YanK",
-      "url": "https://www.buymeacoffee.com/yank",
-      "email": "yanklinnomme@gmail.com",
+      "name": "YanK l'Innommé",
+      "url": "https://yanklinnomme.fr",
+      "email": "contact@yanklinnomme.fr",
       "discord": "yanklinnomme"
     }
   ],
@@ -24,20 +24,6 @@
   },
   "esmodules": ["k4lt-assets.js"],
   "packs": [
-    {
-      "label": "Additional Playlists · TBM",
-      "name": "additional-playlists--tbm",
-      "type": "Playlist",
-      "system": "k4lt",
-      "path": "packs/additional-playlists--tbm"
-    },
-    {
-      "label": "Additional Scenes · TBM",
-      "name": "additional-scenes--tbm",
-      "type": "Scene",
-      "system": "k4lt",
-      "path": "packs/additional-scenes--tbm"
-    },
     {
       "label": "KULT: Divinity Lost · OST",
       "name": "k4lt-ost",
