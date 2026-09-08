@@ -1,6 +1,6 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.compatibility.verified&label=foundry%20vtt&color=%23ee9b3a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FYanKlInnomme%2FFoundryVTT-k4lt-assets%2Fmaster%2Fmodule.json&query=%24.version&label=version&color=%230f2f2b) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YanKlInnomme/FoundryVTT-k4lt-assets/total) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub forks](https://img.shields.io/github/forks/YanKlInnomme/FoundryVTT-k4lt-assets) ![GitHub Repo stars](https://img.shields.io/github/stars/YanKlInnomme/FoundryVTT-k4lt-assets) [![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black)](https://www.buymeacoffee.com/yank)
 
-[**See below for the English version**](#Module-k4lt-assets-for-Foundry-VTT)
+[**See below for the English version**](#k4lt-assets-Module-for-Foundry-VTT)
 
 # Module k4lt-assets pour Foundry VTT
 
@@ -68,6 +68,9 @@ Les anciennes ressources générées par IA ne faisaient pas partie du contenu o
 
 Je remercie les utilisateurs qui ont apprécié ces contenus au fil des années et reste pleinement engagé dans le développement et la maintenance du module dans le respect des règles établies par Foundry VTT et des ayants droit de KULT: Divinity Lost.
 
+## Version 3.1.0
+ * Ajout des ressources nécessaires au bon fonctionnement du scénario « Écho du passé » dans les modules k4lt-fr et k4lkt-en
+
 ## Version 3.0.0
  * Mise en conformité avec la politique IA de Foundry VTT
  * Retrait de l'ensemble des contenus générés par IA, avec notamment un important travail de nettoyage sur les ressources nécessaires aux scénarios prêts-à-jouer « Gallery of Souls » et « Oakwood Heights »
@@ -101,7 +104,7 @@ Je remercie les utilisateurs qui ont apprécié ces contenus au fil des années 
 
  ---------------------------------------------------------------------
 
-# Module k4lt-assets for Foundry VTT
+# k4lt-assets Module for Foundry VTT
 
 This module is intrinsically linked to the add-on modules (k4lt-fr, k4lkt-en and others in the pipeline). As its name suggests, it contains the resources needed to run other modules. Here's a non-exhaustive list of the contents included in this module:
  * Illustrations to illustrate the pre-started character sheets;
@@ -131,7 +134,7 @@ Track titles also reflect the themes and aesthetics of the game, with names such
 
 Here's the link to listen to the full KULT Divinity Lost OST on the Bandcamp platform: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack.
 
-If you like the module and have the means to do so, you can support me by offering me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support would be greatly appreciated and will aid ongoing development. In any case, I hope you have a rewarding and enjoyable experience. Please feel free to contact me with any comments or issues.
+If you enjoy this module and are in a position to do so, you can support my work by buying me a coffee on Buy Me a Coffee (https://www.buymeacoffee.com/yank). Your support is greatly appreciated and helps fund the continued development of this project. Either way, I hope you enjoy using it. If you have any comments, suggestions, or questions, please don't hesitate to get in touch.
 
 ## Prerequisites
 
@@ -162,6 +165,9 @@ In order to comply with this updated policy and maintain the module's availabili
 These AI-generated resources were never part of the official KULT: Divinity Lost content, were neither approved nor endorsed by Helmgast or the rights holders of the license, and are no longer distributed as part of this project.
 
 I would like to thank all users who enjoyed this content over the years and remain fully committed to the continued development and maintenance of this module in accordance with Foundry VTT policies and the rights of the KULT: Divinity Lost license holders.
+
+## Version 3.1.0
+ * Added the resources needed for the "An Echo From the Past" scenario in the k4lt-fr and k4lkt-en modules
 
 ## Version 3.0.0
  * Compliance update for Foundry VTT's AI Content Policy
