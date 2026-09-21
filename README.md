@@ -68,6 +68,9 @@ Les anciennes ressources générées par IA ne faisaient pas partie du contenu o
 
 Je remercie les utilisateurs qui ont apprécié ces contenus au fil des années et reste pleinement engagé dans le développement et la maintenance du module dans le respect des règles établies par Foundry VTT et des ayants droit de KULT: Divinity Lost.
 
+## Version 3.1.1
+ * Retrait des anciens portraits du dossier img/archetypes : les portraits d’archétypes sont désormais regroupés dans le système k4lt, sous assets/archetypes
+
 ## Version 3.1.0
  * Ajout des ressources nécessaires au bon fonctionnement du scénario « Écho du passé » dans les modules k4lt-fr et k4lkt-en
 
@@ -165,6 +168,9 @@ In order to comply with this updated policy and maintain the module's availabili
 These AI-generated resources were never part of the official KULT: Divinity Lost content, were neither approved nor endorsed by Helmgast or the rights holders of the license, and are no longer distributed as part of this project.
 
 I would like to thank all users who enjoyed this content over the years and remain fully committed to the continued development and maintenance of this module in accordance with Foundry VTT policies and the rights of the KULT: Divinity Lost license holders.
+
+## Version 3.1.1
+ * Removed the old portraits from img/archetypes: archetype portraits are now grouped in the k4lt system under assets/archetypes
 
 ## Version 3.1.0
  * Added the resources needed for the "An Echo From the Past" scenario in the k4lt-fr and k4lkt-en modules
